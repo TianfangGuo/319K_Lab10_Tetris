@@ -1,12 +1,6 @@
-// SpaceInvaders.c
 // Runs on TM4C123
-// Jonathan Valvano and Daniel Valvano
-// This is a starter project for the EE319K Lab 10
-
-// Last Modified: 1/12/2022 
-// http://www.spaceinvaders.de/
-// sounds at http://www.classicgaming.cc/classics/spaceinvaders/sounds.php
-// http://www.classicgaming.cc/classics/spaceinvaders/playguide.php
+// Tianfang Guo
+// Tetris game project for EE319K Lab 10
 
 // ******* Possible Hardware I/O connections*******************
 // Slide pot pin 1 connected to ground
